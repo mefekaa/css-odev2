@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    /* border: 1px solid black; */
+}
+
+.container{
+    margin-top: 10%;
+    margin-left: 15px ;
+    margin-right: 15px;
+    width: 98.3%;
+    height: 120px;
+    
+}
+.center{
+   display: flex;
+  justify-content: center;
+  
+   
+}
+
+.center-text{
+    text-align: center;
+    
+}
+
+.size{
+    width: 400px;
+    height: 60px;
+}
+
+.button{
+    margin: 15px;
+}
+
+.bg-grey{
+    background-color: rgba(211, 210, 210, 0.726);
+    padding: 10px;
+
+}
+
+.bg-turquoise{
+    background-color: turquoise;
+    margin-right: 15px;
+    width: 400px;
+    text-align: center;
+    padding: 15px;
+    
+}
+ 
+
+
+.tx-bt{
+    display: block;
+}
+
+.mg-5{
+    margin: 5px;
+}
